@@ -20,3 +20,8 @@ p{
 p strong{
     color: #8b8b8bcc;
 }
+img{
+    width: 800px;
+    max-width: 1200px;
+    min-width: 500px;
+}
